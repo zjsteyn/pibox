@@ -1,6 +1,6 @@
-# Welcome to git-wiki demo
+# Welcome to the SolarPi Page
 
-This is a [demo](wiki/Demo.md) of git-wiki theme for jekyll.
+This pages will give you a quick overview of the porject as well as links to relevant RaspberryPi sdcard images.
 
 it's a full featured wiki powered by git, github pages and pull-requests!
 
