@@ -2,13 +2,11 @@
 
 This pages will give you a quick overview of the porject as well as links to relevant RaspberryPi sdcard images.
 
-Our aim with this project to help bridge the Digital Divide in providing setup instructions on how to build your own SolarPi Setup.
-
-*ENTER CONTEXT HERE*
+The ability to create and deploy networking technologies able to deliver relevant content over multiple platforms has until very recently depended on access to costly technology, infrastructure and expertise.  This project aims to provide a quick start to run own cost effective digital projects based on open source tools and Raspberry Pi hardware.
 
 ## Quick Start Instructions
 
-1. Download the RaspberryPi .img [file](https://github.com/drassil/git-wiki) - It's a large download ~8GB
+1. Download the RaspberryPi .img [file](https://goo.gl/mjx5hz) - It's a large download ~8GB
 
 2. Download either the Windows / Mac OS / Linux version of [Etcher](https://etcher.io/) - You will use this to write the .img file to an SD card to get your Raspberry Pi setup up and running.
 
