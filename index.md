@@ -2,66 +2,36 @@
 
 This pages will give you a quick overview of the porject as well as links to relevant RaspberryPi sdcard images.
 
-it's a full featured wiki powered by git, github pages and pull-requests!
+Our aim with this project to help bridge the Digital Divide in providing setup instructions on how to build your own SolarPi Setup.
 
-It means: 
+*ENTER CONTEXT HERE*
 
-* Improvements in the cooperative aspect: forks, pull-requests and roles.
-* You can customize your wiki as you want with style sheets and even changing the layout.
-* No databases! Only static files that can be downloaded in a few seconds.
-* Markdown and html mixed together!
-* History, revision comparison and everything you need from a wiki platform.
-* You can edit your pages with the standard git editor, prose.io (integrated) or any kind of editor you prefer.
+## Quick Start Instructions
 
-You can fork/copy the master branch now and start your wiki in just 1 minute.
+1. Download the RaspberryPi .img [file](https://github.com/drassil/git-wiki) - It's a large download ~8GB
 
-Then [share your wiki with us!](wiki/Showreel.md) please.
+2. Download either the Windows / Mac OS / Linux version of [Etcher](https://etcher.io/) - You will use this to write the .img file to an SD card to get your Raspberry Pi setup up and running.
 
-**Note:**
-You can even include the github wiki as a submodule and enable the conf, but it's an experimental feature and it implies less advantages and greater disadvantages for now.
+3. Follow the 1-2-3 process as displayed on the [Etcher](https://etcher.io/) website.
 
-## Installation instructions
-
-1. Fork or copy [this repository](https://github.com/drassil/git-wiki)
-
-2. copy and rename _config.yml.dist in _config.yml changing settings inside
-
-3. create your index.md in root directory
-
-4. push your changes in your repository, then configure the github pages in your repository settings
-
-5. Your wiki is ready!
+4. Once your image has been written to the SD card you can pop it into your Raspberry Pi Model 3 B and you should be ready to go.
 
 **Note:**
 
-We suggest the creation of a /wiki/ subfolder that collects all your .md pages (except index.md)
+This image should work on other Raspberry Pi Setups, however Wifi hotspot setup should be configured to each invividual system.
+A detailed list of all changes, including password for the setup, that was made to the original Raspbian Jessy installation can be found here: *ENTER HERE*
 
-## Current known limitations
+## Special thanks to the following sites and guides that made this setup possible
 
-* Non-existent wiki page links are not "[red](wiki/red.md)".
-
-* You can't use the wiki link format: [[example]]. Please, use gh-pages links instead: \[example\](example) 
-
-## Customization
-
-You can create following files in _includes folder to costumize git-wiki without patching original code:
-
-* head.html  -> this file will be included in <head> tag allowing you to add css/js and any kind of head tags
-* sidebar.html -> this file will be included in left sidebar allowing you to create your widgets
-* comments.html -> this is mostly used to integrate social comments under page contents
-* footer.html -> this file will be included in left side of the footer.
-
-## Looking for collaboration
-
-Do you like this project? then, contact us via [chat](https://gitter.im/Drassil/general?utm_source=share-link&utm_medium=link&utm_campaign=share-link) , <a href="mailto:staff-drassil@googlegroups.com">email</a>  or send us a PR to improve it.
-
-Thank you!
-
-## Components used
+*ENTER NEW INFO HERE*
 
 - [jekyll-table-of-contents](https://github.com/ghiculescu/jekyll-table-of-contents)
 
 - [jQuery](https://jquery.com/)
 
+## Want to collaborate or get in touch?
+If you would like to collaborate or chat about this project kindly get in touch via github / the following [gitter channel](https://gitter.im/solarpi/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-[MIT LICENSE](LICENSE)
+## Licencing
+
+This website is shared under the [MIT LICENSE](LICENSE) the project related files, such as the Raspberry Pi .img is shared under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
