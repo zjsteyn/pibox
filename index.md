@@ -1,4 +1,4 @@
-# Welcome to the SolarPi Page
+# Welcome to the PiBox Page
 
 This pages will give you a quick overview of the porject as well as links to relevant RaspberryPi sdcard images.
 
