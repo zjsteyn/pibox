@@ -1,6 +1,6 @@
 # Welcome to the PiBox Page
 
-This page will give you a quick overview of the porject as well as links to relevant RaspberryPi sdcard images.
+This page will give you a quick overview of the porject as well as links to relevant RaspberryPi SD Card images.
 
 The ability to create and deploy networking technologies able to deliver relevant content over multiple platforms has until very recently depended on access to costly technology, infrastructure and expertise.  This project aims to provide a quick start to run own cost effective digital projects based on open source tools and Raspberry Pi hardware.
 
