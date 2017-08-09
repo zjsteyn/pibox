@@ -25,7 +25,6 @@ A  list of all changes, including password for the setup, that was made to the o
 ## Special thanks to the following sites and guides that made this setup possible
 
 - [LAMP Web Server with WordPress](https://www.raspberrypi.org/learning/lamp-web-server-with-wordpress/worksheet/)
-
 - [USING YOUR NEW RASPBERRY PI 3 AS A WIFI ACCESS POINT WITH HOSTAPD](https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/)
 - [RPI-Wireless-Hotspot](http://elinux.org/RPI-Wireless-Hotspot)
 
