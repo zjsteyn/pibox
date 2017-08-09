@@ -6,7 +6,7 @@ The ability to create and deploy networking technologies able to deliver relevan
 
 ## Quick Start Instructions
 
-1. Download the RaspberryPi .img [file](https://goo.gl/mjx5hz) - It's a large download ~8GB
+1. Download the RaspberryPi .img [file](https://goo.gl/m3xjKH) - It's a large download ~8GB
 
 2. Download either the Windows / Mac OS / Linux version of [Etcher](https://etcher.io/) - You will use this to write the .img file to an SD card to get your Raspberry Pi setup up and running.
 
