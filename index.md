@@ -1,6 +1,6 @@
 # Welcome to the PiBox Page
 
-This pages will give you a quick overview of the porject as well as links to relevant RaspberryPi sdcard images.
+This page will give you a quick overview of the porject as well as links to relevant RaspberryPi sdcard images.
 
 The ability to create and deploy networking technologies able to deliver relevant content over multiple platforms has until very recently depended on access to costly technology, infrastructure and expertise.  This project aims to provide a quick start to run own cost effective digital projects based on open source tools and Raspberry Pi hardware.
 
@@ -14,10 +14,13 @@ The ability to create and deploy networking technologies able to deliver relevan
 
 4. Once your image has been written to the SD card you can pop it into your Raspberry Pi Model 3 B and you should be ready to go.
 
-**Note:**
+5. Once started, you should see the SolarPi hotspot and will be able to connect to the open hotspot and access the WordPress server at https://172.24.1.1
 
-This image should work on other Raspberry Pi Setups, however Wifi hotspot setup should be configured to each invividual system.
-A detailed list of all changes, including password for the setup, that was made to the original Raspbian Jessy installation can be found here: *ENTER HERE*
+**Plase Note:**
+
+This image and WIFI hotspot setup was build on a Raspberry Pi Model 3 B but it should work on other Raspberry Pi Setups, however on other setups the Wifi hotspot may need to be configured to each invividual system. 
+
+A  list of all changes, including password for the setup, that was made to the original Raspbian Jessy installation can be found [here.](https://docs.google.com/document/d/1MpN6dOidNTQiUtq4obYvzOEKvRgKRRAg3VPXQpJK6KI/edit?usp=sharing)
 
 ## Special thanks to the following sites and guides that made this setup possible
 
@@ -33,7 +36,7 @@ If you would like to collaborate or chat about this project kindly get in touch 
 
 This website is shared under the [MIT LICENSE](LICENSE) the project related files, such as the Raspberry Pi .img is shared under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## Authors and collaborators in this project
+## Authors and collaborators on this project
 Andre Goodrich - Social Anthropology - North-West University
 Gustaff Templehof - Graphic Designer
 Juan Steyn - Digital Humanities - North-West Unversity
