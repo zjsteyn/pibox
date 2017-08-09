@@ -22,6 +22,14 @@ This image and WIFI hotspot setup was build on a Raspberry Pi Model 3 B but it s
 
 **A  list of all changes, including password for the setup**, that was made to the original Raspbian Jessy installation can be found [here.](https://docs.google.com/document/d/1MpN6dOidNTQiUtq4obYvzOEKvRgKRRAg3VPXQpJK6KI/edit?usp=sharing)
 
+## Solar Panel and Battery Setup
+- 2 x 7.2 Amp hour lead acid batteries                        
+- 2 x Buck converters
+    - The first buck converter to manage charging of the batteries by regulating the incoming voltage to 13 volts
+    - The second to regulate outgoing voltage to the Pi by limiting it to 5v
+- 1 x 30watt solar panel
+- Lastly cables to link it all up
+
 ## Special thanks to the following sites and guides that made this setup possible
 
 - [LAMP Web Server with WordPress](https://www.raspberrypi.org/learning/lamp-web-server-with-wordpress/worksheet/)
