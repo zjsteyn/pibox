@@ -2,7 +2,7 @@ title: PiBox Page
 description: This page provides an overview of the project including relevant links to usefull Rasperry Pi Resources
 show_downloads: true
 comments: true
-logo_url: https://cdn.pixabay.com/photo/2014/12/18/13/53/raspberry-pi-572481_1280.jpg
+logo_url: assets/images/rpilogo.jpg
 google_analytics:
 git_branch: gh-pages
 theme: 
