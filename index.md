@@ -21,11 +21,10 @@ A detailed list of all changes, including password for the setup, that was made 
 
 ## Special thanks to the following sites and guides that made this setup possible
 
-*ENTER NEW INFO HERE*
+- [LAMP Web Server with WordPress](https://www.raspberrypi.org/learning/lamp-web-server-with-wordpress/worksheet/)
 
-- [jekyll-table-of-contents](https://github.com/ghiculescu/jekyll-table-of-contents)
-
-- [jQuery](https://jquery.com/)
+- [USING YOUR NEW RASPBERRY PI 3 AS A WIFI ACCESS POINT WITH HOSTAPD](https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/)
+- [RPI-Wireless-Hotspot](http://elinux.org/RPI-Wireless-Hotspot)
 
 ## Want to collaborate or get in touch?
 If you would like to collaborate or chat about this project kindly get in touch via github / the following [gitter channel](https://gitter.im/solarpi/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
@@ -33,3 +32,8 @@ If you would like to collaborate or chat about this project kindly get in touch 
 ## Licencing
 
 This website is shared under the [MIT LICENSE](LICENSE) the project related files, such as the Raspberry Pi .img is shared under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## Authors and collaborators in this project
+Andre Goodrich - Social Anthropology - North-West University
+Gustaff Templehof - Graphic Designer
+Juan Steyn - Digital Humanities - North-West Unversity
