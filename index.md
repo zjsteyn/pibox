@@ -20,7 +20,7 @@ The ability to create and deploy networking technologies able to deliver relevan
 
 This image and WIFI hotspot setup was build on a Raspberry Pi Model 3 B but it should work on other Raspberry Pi Setups, however on other setups the Wifi hotspot may need to be configured to each invividual system. 
 
-A  list of all changes, including password for the setup, that was made to the original Raspbian Jessy installation can be found [here.](https://docs.google.com/document/d/1MpN6dOidNTQiUtq4obYvzOEKvRgKRRAg3VPXQpJK6KI/edit?usp=sharing)
+**A  list of all changes, including password for the setup**, that was made to the original Raspbian Jessy installation can be found [here.](https://docs.google.com/document/d/1MpN6dOidNTQiUtq4obYvzOEKvRgKRRAg3VPXQpJK6KI/edit?usp=sharing)
 
 ## Special thanks to the following sites and guides that made this setup possible
 
