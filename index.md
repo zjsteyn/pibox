@@ -14,7 +14,7 @@ The ability to create and deploy networking technologies able to deliver relevan
 
 4. Once your image has been written to the SD card you can pop it into your Raspberry Pi Model 3 B and you should be ready to go.
 
-5. Once started, you should see the SolarPi hotspot and will be able to connect to the open hotspot and access the WordPress server at https://172.24.1.1
+5. Once started, you should see the SolarPi hotspot and will be able to connect to the open hotspot and access the WordPress server at http: // 172.24.1.1
 
 **Plase Note:**
 
