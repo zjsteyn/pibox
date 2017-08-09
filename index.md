@@ -37,6 +37,6 @@ If you would like to collaborate or chat about this project kindly get in touch 
 This website is shared under the [MIT LICENSE](LICENSE) the project related files, such as the Raspberry Pi .img is shared under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Authors and collaborators on this project
-Andre Goodrich - Social Anthropology - North-West University
-Gustaff Templehof - Graphic Designer
-Juan Steyn - Digital Humanities - North-West Unversity
+<p>Andre Goodrich - Social Anthropology - North-West University</p>
+<p>Gustaff Templehof - Graphic Designer</p>
+<p>Juan Steyn - Digital Humanities - North-West Unversity</p>
